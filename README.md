@@ -1,6 +1,6 @@
-## Hi, I'm Bridget Ho! 👋
+# Hi, I'm Bridget Ho! 👋
 
-### About Me
+## About Me
 I graduated from Northeastern University with a B.S. in Psychology, and minors in Behavioral Neuroscience and Biology.
 I'm currently a UX Research co-lead on the Async project with Tech Fleet Community DAO.
 
@@ -8,7 +8,7 @@ I love learning new technologies, and I'm currently learning the foundations of 
 
 I'm interested in Human Computer Interaction (HCI), and am currently applying for master's programs in this field. 
 
-### Get In Touch
+## Get In Touch
 Let's connect on [LinkedIn] (https://www.linkedin.com/in/bridget-ho/)
 
 <!--
